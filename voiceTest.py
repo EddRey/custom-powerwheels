@@ -1,3 +1,4 @@
+#!//home/edd/.venv/bin/python3
 import time
 from ibus import IBus
 import RPi.GPIO as GPIO
